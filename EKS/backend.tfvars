@@ -1,3 +1,3 @@
 bucket = "shaanu-dev-state-files"
-key    = "jenkins/terraform.tfstate"
+key    = "eks/terraform.tfstate"
 region = "us-east-1"
