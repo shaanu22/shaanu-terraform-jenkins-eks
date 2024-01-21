@@ -1,4 +1,4 @@
-# terraform-jenkins-eks
+# Deploying AWS EKS Cluster using Terraform and Jenkins
 Deploying AWS EKS Cluster using Terraform and Jenkins
 
 In order to accomplish this, we will be taking the following steps:
